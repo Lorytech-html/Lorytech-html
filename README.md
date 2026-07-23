@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello, my name is lorenzo
+
+# Im currently working on: Void Linux on ps4
+
+# linux enthustiast
+# i have nothing to say lol
+
 
 <!--
 **Lorytech-html/Lorytech-html** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
