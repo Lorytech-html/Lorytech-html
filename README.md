@@ -10,7 +10,9 @@
 - [ ] bedrock linux on ps4
 - [ ] buy a real pc
 
-![alt text]([url](https://raw.githubusercontent.com/Lorytech-html/Lorytech-html/refs/heads/main/IMG_5177.gif))
+!(https://raw.githubusercontent.com/Lorytech-html/Lorytech-html/refs/heads/main/IMG_5177.gif)   
+
+
 <!--
 **Lorytech-html/Lorytech-html** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
