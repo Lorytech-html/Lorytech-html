@@ -10,7 +10,7 @@
 - [ ] bedrock linux on ps4
 - [ ] buy a real pc
 
-!(https://raw.githubusercontent.com/Lorytech-html/Lorytech-html/refs/heads/main/IMG_5177.gif)   
+![gif](https://raw.githubusercontent.com/Lorytech-html/Lorytech-html/refs/heads/main/IMG_5177.gif)   
 
 
 <!--
