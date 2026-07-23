@@ -2,8 +2,13 @@
 
 ## Im currently working on: Void Linux on ps4
 
-## linux enthustiast
-## i have nothing to say lol
+### linux enthustiast
+### i have nothing to say lol
+
+# todo list
+- [ ] make void linux drivers for ps4
+- [ ] bedrock linux on ps4
+- [ ] buy a real pc
 
 
 <!--
