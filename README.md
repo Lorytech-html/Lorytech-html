@@ -1,9 +1,9 @@
-## Hello, my name is lorenzo
+# Hello, my name is lorenzo
 
-# Im currently working on: Void Linux on ps4
+## Im currently working on: Void Linux on ps4
 
-# linux enthustiast
-# i have nothing to say lol
+## linux enthustiast
+## i have nothing to say lol
 
 
 <!--
